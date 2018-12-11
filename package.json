@@ -1,0 +1,22 @@
+{
+  "name": "electron-url-encapsulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdpedroso/electron-url-encapsulator.git"
+  },
+  "author": "Eduardo Pedroso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drdpedroso/electron-url-encapsulator/issues"
+  },
+  "homepage": "https://github.com/drdpedroso/electron-url-encapsulator#readme",
+  "devDependencies": {
+    "electron": "^3.0.11"
+  }
+}
